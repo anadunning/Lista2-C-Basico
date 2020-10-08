@@ -6,7 +6,7 @@ int main()
 {
     int a, b;
 
-    printf("Informe dois numeros inteiros quaisquer: \n");
+    printf("Inform two integer numbers: \n");
     scanf("%d %d", &a, &b);
 
     if (a > b)
