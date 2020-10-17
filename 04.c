@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <math.h>
 
+// Faca um programa que leia um numero e,
+// caso ele seja positivo, calcule e mostre:
+// # O numero digitado ao quadrado
+// # A raiz quadrada do numero digitado
+
 int main() {
 
     int num, d, r;
